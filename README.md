@@ -8,8 +8,8 @@ Git is a _distributed_ **version control** system
 First thing to do is to setup your identity. This identifies you to
 other people who download the project.
 
-    $ git config --global user.name "Your Name"
-    $ git config --global user.email your.email@example.com
+    git config --global user.name "Your Name"
+    git config --global user.email your.email@example.com
 
 ## Starting your journey
 
