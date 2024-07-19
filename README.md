@@ -51,6 +51,7 @@ You are now ready to commit. The `-m` flag allows you to enter a message
 to go with the commit at the same time.
 
     $ git commit -m "create two new files"
+    
 
 ## Let’s see what just happened
 
